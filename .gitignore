@@ -1,0 +1,5 @@
+app/browser
+app/packages
+app/packages/*
+packages/
+app/.meteor/dev_bundle
